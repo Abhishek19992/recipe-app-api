@@ -1,4 +1,4 @@
-; linting : Find error in code (Debug Code)
+; linting : Find error in code and check if the code is upto the  PEP8 Standards (Debug Code)
 [flake8]
 exclude = 
     migrations,
